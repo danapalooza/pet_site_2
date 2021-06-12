@@ -1,0 +1,17 @@
+.nav-button {
+    display: inline-block;
+    width: 100px;
+    max-width: 100px;
+    padding: 10px;
+    background-color: rgb(130, 160, 95);
+}
+
+.left-bar {
+    width: 29%;
+    float: left;
+}
+
+.main-content {
+    width: 70%;
+    float: left;
+}
